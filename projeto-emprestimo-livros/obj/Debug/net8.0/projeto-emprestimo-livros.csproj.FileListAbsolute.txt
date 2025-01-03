@@ -170,3 +170,6 @@ C:\Users\valer\OneDrive\Documentos\Projetos\projeto-emprestimo-livros\projeto-em
 C:\Users\valer\OneDrive\Documentos\Projetos\projeto-emprestimo-livros\projeto-emprestimo-livros\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\valer\OneDrive\Documentos\Projetos\projeto-emprestimo-livros\projeto-emprestimo-livros\obj\Debug\net8.0\projeto-emprestimo-livros.csproj.AssemblyReference.cache
 C:\Users\valer\OneDrive\Documentos\Projetos\projeto-emprestimo-livros\projeto-emprestimo-livros\obj\Debug\net8.0\projeto-.E9AD45A0.Up2Date
+C:\Users\valer\OneDrive\Documentos\Projetos\projeto-emprestimo-livros\projeto-emprestimo-livros\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\valer\OneDrive\Documentos\Projetos\projeto-emprestimo-livros\projeto-emprestimo-livros\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\valer\OneDrive\Documentos\Projetos\projeto-emprestimo-livros\projeto-emprestimo-livros\obj\Debug\net8.0\projeto-emprestimo-livros.sourcelink.json

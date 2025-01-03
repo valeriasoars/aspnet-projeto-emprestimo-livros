@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|solutionrelative:projeto-emprestimo-livros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\profiles\\profileautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|solutionrelative:projeto-emprestimo-livros\\profiles\\profileautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|solutionrelative:projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\services\\livroservice\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|solutionrelative:projeto-emprestimo-livros\\services\\livroservice\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfileAutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Profiles\\ProfileAutoMapper.cs",
+              "RelativeDocumentMoniker": "projeto-emprestimo-livros\\Profiles\\ProfileAutoMapper.cs",
+              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Profiles\\ProfileAutoMapper.cs",
+              "RelativeToolTip": "projeto-emprestimo-livros\\Profiles\\ProfileAutoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T23:31:54.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "projeto-emprestimo-livros",
+              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj",
+              "RelativeDocumentMoniker": "projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj",
+              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj",
+              "RelativeToolTip": "projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T23:31:27.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Program.cs",
+              "RelativeDocumentMoniker": "projeto-emprestimo-livros\\Program.cs",
+              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Program.cs",
+              "RelativeToolTip": "projeto-emprestimo-livros\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T23:23:10.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LivroService.cs",
               "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Services\\LivroService\\LivroService.cs",
               "RelativeDocumentMoniker": "projeto-emprestimo-livros\\Services\\LivroService\\LivroService.cs",
               "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Services\\LivroService\\LivroService.cs",
               "RelativeToolTip": "projeto-emprestimo-livros\\Services\\LivroService\\LivroService.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwEgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T23:18:11.523Z",
               "EditorCaption": ""

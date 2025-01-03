@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using AutoMapper;
+using Microsoft.EntityFrameworkCore;
 using projeto_emprestimo_livros.Data;
 using projeto_emprestimo_livros.Dto.Livros;
 using projeto_emprestimo_livros.Models;
@@ -9,12 +10,15 @@ namespace projeto_emprestimo_livros.Services.LivroService
     {
         private readonly AppDbContext _context;
         private string _caminhoServidor;
-        public LivroService(AppDbContext context, IWebHostEnvironment sistema) 
+        private readonly IMapper _mapper;
+        public LivroService(AppDbContext context, IWebHostEnvironment sistema, IMapper mapper) 
         {
             _context = context;
 
             // caminho para chegar no wwwroot
             _caminhoServidor = sistema.WebRootPath;
+
+            _mapper = mapper;
         }
         public async Task<List<LivrosModel>> BuscarLivros()
         {
@@ -53,17 +57,20 @@ namespace projeto_emprestimo_livros.Services.LivroService
                     foto.CopyToAsync(stream).Wait();
                 }
 
-                var livro = new LivrosModel
-                {
-                    Titulo = livroCriacaoDto.Titulo,
-                    Capa = nomeCaminhoDaImagem,
-                    Autor = livroCriacaoDto.Autor,
-                    Descricao = livroCriacaoDto.Descricao,
-                    QuantidadeEmEstoque = livroCriacaoDto.QuantidadeEmEstoque,
-                    AnoPublicacao = livroCriacaoDto.AnoPublicacao,
-                    ISBN = livroCriacaoDto.ISBN,
-                    Genero = livroCriacaoDto.Genero
-                };
+                /*  var livro = new LivrosModel
+                  {
+                      Titulo = livroCriacaoDto.Titulo,
+                      Capa = nomeCaminhoDaImagem,
+                      Autor = livroCriacaoDto.Autor,
+                      Descricao = livroCriacaoDto.Descricao,
+                      QuantidadeEmEstoque = livroCriacaoDto.QuantidadeEmEstoque,
+                      AnoPublicacao = livroCriacaoDto.AnoPublicacao,
+                      ISBN = livroCriacaoDto.ISBN,
+                      Genero = livroCriacaoDto.Genero
+                  };*/
+
+                var livro = _mapper.Map<LivrosModel>(livroCriacaoDto);
+                livro.Capa = nomeCaminhoDaImagem;
 
                 _context.Add(livro);
                 await _context.SaveChangesAsync();
