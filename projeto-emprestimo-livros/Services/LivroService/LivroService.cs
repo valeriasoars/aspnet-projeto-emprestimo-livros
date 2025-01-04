@@ -39,23 +39,7 @@ namespace projeto_emprestimo_livros.Services.LivroService
         {
             try
             {
-                // garantir que cada imagem tenha um nome diferente (codigo unico)
-                var codigoUnico = Guid.NewGuid().ToString();
-                var nomeCaminhoDaImagem = foto.FileName.Replace(" ", "").ToLower() + codigoUnico + livroCriacaoDto.ISBN + ".png";
-
-                string caminhoParaSalvarImagens = _caminhoServidor + "\\Imagem\\";
-
-
-                //existe a pasta? sim -> converte em false e nao entra. nao -> converte em true e entra
-                if (!Directory.Exists(caminhoParaSalvarImagens))
-                {
-                    Directory.CreateDirectory(caminhoParaSalvarImagens);
-                }
-
-                using(var stream = System.IO.File.Create(caminhoParaSalvarImagens + nomeCaminhoDaImagem))
-                {
-                    foto.CopyToAsync(stream).Wait();
-                }
+                var nomeCaminhoDaImagem = GeraCaminhoArquivo(foto);
 
                 /*  var livro = new LivrosModel
                   {
@@ -102,6 +86,85 @@ namespace projeto_emprestimo_livros.Services.LivroService
             {
                 throw new Exception(ex.Message);
             }
+        }
+
+        public async Task<LivrosModel> BuscarLivroPorId(int? id)
+        {
+            try
+            {
+               var livro = await _context.Livros.FirstOrDefaultAsync(l => l.Id == id);
+                return livro;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
+
+        public async Task<LivrosModel> Editar(LivroEdicaoDto livroEdicaoDto, IFormFile foto)
+        {
+            try
+            {
+                var livro = await _context.Livros.AsNoTracking().FirstOrDefaultAsync(l => l.Id == livroEdicaoDto.Id);
+                var nomeCaminhoDaImagem = "";
+                if (foto != null)
+                {
+                    // deletando a imagem que foi editada
+                    string caminhoCapaExistente = _caminhoServidor + "\\Imagem\\" + livro.Capa;
+                    if (File.Exists(caminhoCapaExistente))
+                    {
+                        File.Delete(caminhoCapaExistente);
+                    }
+
+                    nomeCaminhoDaImagem = GeraCaminhoArquivo(foto);
+                }
+
+               var livrosModel = _mapper.Map<LivrosModel>(livroEdicaoDto);
+
+                if(nomeCaminhoDaImagem != "")
+                {
+                    livrosModel.Capa = nomeCaminhoDaImagem;
+                }
+                else
+                {
+                    livrosModel.Capa = livro.Capa;
+                }
+
+                livrosModel.DataDeAlteracao = DateTime.Now;
+                _context.Update(livrosModel);
+                await _context.SaveChangesAsync();
+                return livrosModel;
+
+
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
+
+
+        public string GeraCaminhoArquivo(IFormFile foto)
+        {
+            // garantir que cada imagem tenha um nome diferente (codigo unico)
+            var codigoUnico = Guid.NewGuid().ToString();
+            var nomeCaminhoDaImagem = foto.FileName.Replace(" ", "").ToLower() + codigoUnico +  ".png";
+
+            string caminhoParaSalvarImagens = _caminhoServidor + "\\Imagem\\";
+
+
+            //existe a pasta? sim -> converte em false e nao entra. nao -> converte em true e entra
+            if (!Directory.Exists(caminhoParaSalvarImagens))
+            {
+                Directory.CreateDirectory(caminhoParaSalvarImagens);
+            }
+
+            using (var stream = System.IO.File.Create(caminhoParaSalvarImagens + nomeCaminhoDaImagem))
+            {
+                foto.CopyToAsync(stream).Wait();
+            }
+
+            return nomeCaminhoDaImagem;
         }
     }
 }

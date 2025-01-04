@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FU+uLHZSYf4+GbqOTdUjLvInq/rkHA6p8cqBXhuUHXI=",
+  "Hash": "I3YWJAKMvIBHNYLMI0Y0YRem9J26FVaymytZSCAEqjo=",
   "Source": "projeto-emprestimo-livros",
   "BasePath": "_content/projeto-emprestimo-livros",
   "Mode": "Default",
@@ -122,6 +122,174 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png1297327d-7815-4a1a-9c13-8a542beda8db.png",
+      "SourceId": "projeto-emprestimo-livros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\",
+      "BasePath": "_content/projeto-emprestimo-livros",
+      "RelativePath": "Imagem/imagem-creatina.png1297327d-7815-4a1a-9c13-8a542beda8db#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ctglhyl881",
+      "Integrity": "oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagem\\imagem-creatina.png1297327d-7815-4a1a-9c13-8a542beda8db.png"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png3b4b6a3f-3675-4282-ae67-dc2896833c54.png",
+      "SourceId": "projeto-emprestimo-livros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\",
+      "BasePath": "_content/projeto-emprestimo-livros",
+      "RelativePath": "Imagem/imagem-creatina.png3b4b6a3f-3675-4282-ae67-dc2896833c54#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ctglhyl881",
+      "Integrity": "oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagem\\imagem-creatina.png3b4b6a3f-3675-4282-ae67-dc2896833c54.png"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png4654ef74-d9b8-417d-b83e-f89d72ad91ca.png",
+      "SourceId": "projeto-emprestimo-livros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\",
+      "BasePath": "_content/projeto-emprestimo-livros",
+      "RelativePath": "Imagem/imagem-creatina.png4654ef74-d9b8-417d-b83e-f89d72ad91ca#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ctglhyl881",
+      "Integrity": "oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagem\\imagem-creatina.png4654ef74-d9b8-417d-b83e-f89d72ad91ca.png"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png57da88ce-5c89-49c8-a28c-6baea0e8f806.png",
+      "SourceId": "projeto-emprestimo-livros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\",
+      "BasePath": "_content/projeto-emprestimo-livros",
+      "RelativePath": "Imagem/imagem-creatina.png57da88ce-5c89-49c8-a28c-6baea0e8f806#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ctglhyl881",
+      "Integrity": "oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagem\\imagem-creatina.png57da88ce-5c89-49c8-a28c-6baea0e8f806.png"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png73b32ba6-d927-4ba7-8f33-3986983c17ce.png",
+      "SourceId": "projeto-emprestimo-livros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\",
+      "BasePath": "_content/projeto-emprestimo-livros",
+      "RelativePath": "Imagem/imagem-creatina.png73b32ba6-d927-4ba7-8f33-3986983c17ce#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ctglhyl881",
+      "Integrity": "oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagem\\imagem-creatina.png73b32ba6-d927-4ba7-8f33-3986983c17ce.png"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png931769e2-8417-4ab5-9f98-e4535c408aaa.png",
+      "SourceId": "projeto-emprestimo-livros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\",
+      "BasePath": "_content/projeto-emprestimo-livros",
+      "RelativePath": "Imagem/imagem-creatina.png931769e2-8417-4ab5-9f98-e4535c408aaa#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ctglhyl881",
+      "Integrity": "oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagem\\imagem-creatina.png931769e2-8417-4ab5-9f98-e4535c408aaa.png"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.pngdd835a53-2500-446c-8c4e-84f7c09c9f0c.png",
+      "SourceId": "projeto-emprestimo-livros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\",
+      "BasePath": "_content/projeto-emprestimo-livros",
+      "RelativePath": "Imagem/imagem-creatina.pngdd835a53-2500-446c-8c4e-84f7c09c9f0c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ctglhyl881",
+      "Integrity": "oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagem\\imagem-creatina.pngdd835a53-2500-446c-8c4e-84f7c09c9f0c.png"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\meli-small.png07f2b025-b3d9-4391-a4bc-e82477076b6e2222222.png",
+      "SourceId": "projeto-emprestimo-livros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\",
+      "BasePath": "_content/projeto-emprestimo-livros",
+      "RelativePath": "Imagem/meli-small.png07f2b025-b3d9-4391-a4bc-e82477076b6e2222222#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uvdk17mhnn",
+      "Integrity": "SkCjPUM3OGl73b4k4y/kliCKPQcwJ5oe4VQ0YczrwjU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagem\\meli-small.png07f2b025-b3d9-4391-a4bc-e82477076b6e2222222.png"
+    },
+    {
       "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\meli-small.png442362cd-4c07-4b8c-9b2e-4cbe6347f978555555z6z.png",
       "SourceId": "projeto-emprestimo-livros",
       "SourceType": "Discovered",
@@ -164,12 +332,12 @@
       "OriginalItemSpec": "wwwroot\\Imagem\\meli-small.pngd5187db4-2b74-4062-924f-1255b8219b7144444.png"
     },
     {
-      "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.png7146d019-d4f2-495c-a85e-780849d2f227544444444875.png",
+      "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.png044aaeee-b20c-4b57-974d-7459942f15b1.png",
       "SourceId": "projeto-emprestimo-livros",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\",
       "BasePath": "_content/projeto-emprestimo-livros",
-      "RelativePath": "Imagem/mochila-azul.png7146d019-d4f2-495c-a85e-780849d2f227544444444875#[.{fingerprint}]?.png",
+      "RelativePath": "Imagem/mochila-azul.png044aaeee-b20c-4b57-974d-7459942f15b1#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -182,15 +350,15 @@
       "Integrity": "jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagem\\mochila-azul.png7146d019-d4f2-495c-a85e-780849d2f227544444444875.png"
+      "OriginalItemSpec": "wwwroot\\Imagem\\mochila-azul.png044aaeee-b20c-4b57-974d-7459942f15b1.png"
     },
     {
-      "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.pngfcfc504c-faf4-46af-8232-142d6ed6837a123654789.png",
+      "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.png1ceee2d3-d2a9-410f-bbf8-7814244f6eee.png",
       "SourceId": "projeto-emprestimo-livros",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\",
       "BasePath": "_content/projeto-emprestimo-livros",
-      "RelativePath": "Imagem/mochila-azul.pngfcfc504c-faf4-46af-8232-142d6ed6837a123654789#[.{fingerprint}]?.png",
+      "RelativePath": "Imagem/mochila-azul.png1ceee2d3-d2a9-410f-bbf8-7814244f6eee#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -203,7 +371,70 @@
       "Integrity": "jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagem\\mochila-azul.pngfcfc504c-faf4-46af-8232-142d6ed6837a123654789.png"
+      "OriginalItemSpec": "wwwroot\\Imagem\\mochila-azul.png1ceee2d3-d2a9-410f-bbf8-7814244f6eee.png"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.png866c836e-98ac-49a6-a2c4-327779ba1aa3.png",
+      "SourceId": "projeto-emprestimo-livros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\",
+      "BasePath": "_content/projeto-emprestimo-livros",
+      "RelativePath": "Imagem/mochila-azul.png866c836e-98ac-49a6-a2c4-327779ba1aa3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cq0zlyfsh7",
+      "Integrity": "jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagem\\mochila-azul.png866c836e-98ac-49a6-a2c4-327779ba1aa3.png"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.png9f3c5c2f-ca4b-4538-b794-228f0b6ecc80.png",
+      "SourceId": "projeto-emprestimo-livros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\",
+      "BasePath": "_content/projeto-emprestimo-livros",
+      "RelativePath": "Imagem/mochila-azul.png9f3c5c2f-ca4b-4538-b794-228f0b6ecc80#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cq0zlyfsh7",
+      "Integrity": "jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagem\\mochila-azul.png9f3c5c2f-ca4b-4538-b794-228f0b6ecc80.png"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.pngff292e1f-f3e2-4697-a02f-a031faf41625.png",
+      "SourceId": "projeto-emprestimo-livros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\",
+      "BasePath": "_content/projeto-emprestimo-livros",
+      "RelativePath": "Imagem/mochila-azul.pngff292e1f-f3e2-4697-a02f-a031faf41625#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cq0zlyfsh7",
+      "Integrity": "jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagem\\mochila-azul.pngff292e1f-f3e2-4697-a02f-a031faf41625.png"
     },
     {
       "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\js\\site.js",
@@ -220,8 +451,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4ngmu59d9c",
-      "Integrity": "QCDQYnq+zQTuqR8VB/BvSnsJRNWJl4+fIEHBo2/QR4E=",
+      "Fingerprint": "bevs2o9gl2",
+      "Integrity": "87+fjDUvFiAeXUBI2JNLT98OqLRC3E5yLl23NB2TYd8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -1672,6 +1903,662 @@
       ]
     },
     {
+      "Route": "Imagem/imagem-creatina.png1297327d-7815-4a1a-9c13-8a542beda8db.ctglhyl881.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png1297327d-7815-4a1a-9c13-8a542beda8db.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 14:05:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctglhyl881"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagem/imagem-creatina.png1297327d-7815-4a1a-9c13-8a542beda8db.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/imagem-creatina.png1297327d-7815-4a1a-9c13-8a542beda8db.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png1297327d-7815-4a1a-9c13-8a542beda8db.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 14:05:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/imagem-creatina.png3b4b6a3f-3675-4282-ae67-dc2896833c54.ctglhyl881.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png3b4b6a3f-3675-4282-ae67-dc2896833c54.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctglhyl881"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagem/imagem-creatina.png3b4b6a3f-3675-4282-ae67-dc2896833c54.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/imagem-creatina.png3b4b6a3f-3675-4282-ae67-dc2896833c54.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png3b4b6a3f-3675-4282-ae67-dc2896833c54.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/imagem-creatina.png4654ef74-d9b8-417d-b83e-f89d72ad91ca.ctglhyl881.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png4654ef74-d9b8-417d-b83e-f89d72ad91ca.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:57:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctglhyl881"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagem/imagem-creatina.png4654ef74-d9b8-417d-b83e-f89d72ad91ca.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/imagem-creatina.png4654ef74-d9b8-417d-b83e-f89d72ad91ca.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png4654ef74-d9b8-417d-b83e-f89d72ad91ca.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:57:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/imagem-creatina.png57da88ce-5c89-49c8-a28c-6baea0e8f806.ctglhyl881.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png57da88ce-5c89-49c8-a28c-6baea0e8f806.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:58:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctglhyl881"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagem/imagem-creatina.png57da88ce-5c89-49c8-a28c-6baea0e8f806.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/imagem-creatina.png57da88ce-5c89-49c8-a28c-6baea0e8f806.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png57da88ce-5c89-49c8-a28c-6baea0e8f806.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:58:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/imagem-creatina.png73b32ba6-d927-4ba7-8f33-3986983c17ce.ctglhyl881.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png73b32ba6-d927-4ba7-8f33-3986983c17ce.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:51:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctglhyl881"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagem/imagem-creatina.png73b32ba6-d927-4ba7-8f33-3986983c17ce.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/imagem-creatina.png73b32ba6-d927-4ba7-8f33-3986983c17ce.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png73b32ba6-d927-4ba7-8f33-3986983c17ce.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:51:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/imagem-creatina.png931769e2-8417-4ab5-9f98-e4535c408aaa.ctglhyl881.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png931769e2-8417-4ab5-9f98-e4535c408aaa.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:59:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctglhyl881"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagem/imagem-creatina.png931769e2-8417-4ab5-9f98-e4535c408aaa.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/imagem-creatina.png931769e2-8417-4ab5-9f98-e4535c408aaa.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.png931769e2-8417-4ab5-9f98-e4535c408aaa.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:59:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/imagem-creatina.pngdd835a53-2500-446c-8c4e-84f7c09c9f0c.ctglhyl881.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.pngdd835a53-2500-446c-8c4e-84f7c09c9f0c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:52:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctglhyl881"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagem/imagem-creatina.pngdd835a53-2500-446c-8c4e-84f7c09c9f0c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/imagem-creatina.pngdd835a53-2500-446c-8c4e-84f7c09c9f0c.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\imagem-creatina.pngdd835a53-2500-446c-8c4e-84f7c09c9f0c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:52:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oO4Y/WIyb2C0RanDKfcDtbp+fZOjQ5mglU+cFKo7Xbw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/meli-small.png07f2b025-b3d9-4391-a4bc-e82477076b6e2222222.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\meli-small.png07f2b025-b3d9-4391-a4bc-e82477076b6e2222222.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1043"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SkCjPUM3OGl73b4k4y/kliCKPQcwJ5oe4VQ0YczrwjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 23:39:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SkCjPUM3OGl73b4k4y/kliCKPQcwJ5oe4VQ0YczrwjU="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/meli-small.png07f2b025-b3d9-4391-a4bc-e82477076b6e2222222.uvdk17mhnn.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\meli-small.png07f2b025-b3d9-4391-a4bc-e82477076b6e2222222.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1043"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SkCjPUM3OGl73b4k4y/kliCKPQcwJ5oe4VQ0YczrwjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 23:39:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uvdk17mhnn"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagem/meli-small.png07f2b025-b3d9-4391-a4bc-e82477076b6e2222222.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SkCjPUM3OGl73b4k4y/kliCKPQcwJ5oe4VQ0YczrwjU="
+        }
+      ]
+    },
+    {
       "Route": "Imagem/meli-small.png442362cd-4c07-4b8c-9b2e-4cbe6347f978555555z6z.png",
       "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\meli-small.png442362cd-4c07-4b8c-9b2e-4cbe6347f978555555z6z.png",
       "Selectors": [],
@@ -1836,8 +2723,8 @@
       ]
     },
     {
-      "Route": "Imagem/mochila-azul.png7146d019-d4f2-495c-a85e-780849d2f227544444444875.cq0zlyfsh7.png",
-      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.png7146d019-d4f2-495c-a85e-780849d2f227544444444875.png",
+      "Route": "Imagem/mochila-azul.png044aaeee-b20c-4b57-974d-7459942f15b1.cq0zlyfsh7.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.png044aaeee-b20c-4b57-974d-7459942f15b1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1858,7 +2745,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 23:15:06 GMT"
+          "Value": "Sat, 04 Jan 2025 13:57:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1872,7 +2759,7 @@
         },
         {
           "Name": "label",
-          "Value": "Imagem/mochila-azul.png7146d019-d4f2-495c-a85e-780849d2f227544444444875.png"
+          "Value": "Imagem/mochila-azul.png044aaeee-b20c-4b57-974d-7459942f15b1.png"
         },
         {
           "Name": "integrity",
@@ -1881,8 +2768,8 @@
       ]
     },
     {
-      "Route": "Imagem/mochila-azul.png7146d019-d4f2-495c-a85e-780849d2f227544444444875.png",
-      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.png7146d019-d4f2-495c-a85e-780849d2f227544444444875.png",
+      "Route": "Imagem/mochila-azul.png044aaeee-b20c-4b57-974d-7459942f15b1.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.png044aaeee-b20c-4b57-974d-7459942f15b1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1903,7 +2790,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 23:15:06 GMT"
+          "Value": "Sat, 04 Jan 2025 13:57:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1918,8 +2805,8 @@
       ]
     },
     {
-      "Route": "Imagem/mochila-azul.pngfcfc504c-faf4-46af-8232-142d6ed6837a123654789.cq0zlyfsh7.png",
-      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.pngfcfc504c-faf4-46af-8232-142d6ed6837a123654789.png",
+      "Route": "Imagem/mochila-azul.png1ceee2d3-d2a9-410f-bbf8-7814244f6eee.cq0zlyfsh7.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.png1ceee2d3-d2a9-410f-bbf8-7814244f6eee.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1940,7 +2827,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 18:48:16 GMT"
+          "Value": "Sat, 04 Jan 2025 14:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1954,7 +2841,7 @@
         },
         {
           "Name": "label",
-          "Value": "Imagem/mochila-azul.pngfcfc504c-faf4-46af-8232-142d6ed6837a123654789.png"
+          "Value": "Imagem/mochila-azul.png1ceee2d3-d2a9-410f-bbf8-7814244f6eee.png"
         },
         {
           "Name": "integrity",
@@ -1963,8 +2850,8 @@
       ]
     },
     {
-      "Route": "Imagem/mochila-azul.pngfcfc504c-faf4-46af-8232-142d6ed6837a123654789.png",
-      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.pngfcfc504c-faf4-46af-8232-142d6ed6837a123654789.png",
+      "Route": "Imagem/mochila-azul.png1ceee2d3-d2a9-410f-bbf8-7814244f6eee.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.png1ceee2d3-d2a9-410f-bbf8-7814244f6eee.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1985,7 +2872,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 18:48:16 GMT"
+          "Value": "Sat, 04 Jan 2025 14:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2000,7 +2887,253 @@
       ]
     },
     {
-      "Route": "js/site.4ngmu59d9c.js",
+      "Route": "Imagem/mochila-azul.png866c836e-98ac-49a6-a2c4-327779ba1aa3.cq0zlyfsh7.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.png866c836e-98ac-49a6-a2c4-327779ba1aa3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:53:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cq0zlyfsh7"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagem/mochila-azul.png866c836e-98ac-49a6-a2c4-327779ba1aa3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/mochila-azul.png866c836e-98ac-49a6-a2c4-327779ba1aa3.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.png866c836e-98ac-49a6-a2c4-327779ba1aa3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:53:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/mochila-azul.png9f3c5c2f-ca4b-4538-b794-228f0b6ecc80.cq0zlyfsh7.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.png9f3c5c2f-ca4b-4538-b794-228f0b6ecc80.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:53:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cq0zlyfsh7"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagem/mochila-azul.png9f3c5c2f-ca4b-4538-b794-228f0b6ecc80.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/mochila-azul.png9f3c5c2f-ca4b-4538-b794-228f0b6ecc80.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.png9f3c5c2f-ca4b-4538-b794-228f0b6ecc80.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:53:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/mochila-azul.pngff292e1f-f3e2-4697-a02f-a031faf41625.cq0zlyfsh7.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.pngff292e1f-f3e2-4697-a02f-a031faf41625.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:52:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cq0zlyfsh7"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagem/mochila-azul.pngff292e1f-f3e2-4697-a02f-a031faf41625.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g="
+        }
+      ]
+    },
+    {
+      "Route": "Imagem/mochila-azul.pngff292e1f-f3e2-4697-a02f-a031faf41625.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\Imagem\\mochila-azul.pngff292e1f-f3e2-4697-a02f-a031faf41625.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:52:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.bevs2o9gl2.js",
       "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2010,7 +3143,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "415"
+          "Value": "1565"
         },
         {
           "Name": "Content-Type",
@@ -2018,11 +3151,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QCDQYnq+zQTuqR8VB/BvSnsJRNWJl4+fIEHBo2/QR4E=\""
+          "Value": "\"87+fjDUvFiAeXUBI2JNLT98OqLRC3E5yLl23NB2TYd8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 23:14:04 GMT"
+          "Value": "Fri, 03 Jan 2025 23:47:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2032,7 +3165,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4ngmu59d9c"
+          "Value": "bevs2o9gl2"
         },
         {
           "Name": "label",
@@ -2040,7 +3173,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QCDQYnq+zQTuqR8VB/BvSnsJRNWJl4+fIEHBo2/QR4E="
+          "Value": "sha256-87+fjDUvFiAeXUBI2JNLT98OqLRC3E5yLl23NB2TYd8="
         }
       ]
     },
@@ -2055,7 +3188,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "415"
+          "Value": "1565"
         },
         {
           "Name": "Content-Type",
@@ -2063,11 +3196,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QCDQYnq+zQTuqR8VB/BvSnsJRNWJl4+fIEHBo2/QR4E=\""
+          "Value": "\"87+fjDUvFiAeXUBI2JNLT98OqLRC3E5yLl23NB2TYd8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 23:14:04 GMT"
+          "Value": "Fri, 03 Jan 2025 23:47:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2077,7 +3210,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QCDQYnq+zQTuqR8VB/BvSnsJRNWJl4+fIEHBo2/QR4E="
+          "Value": "sha256-87+fjDUvFiAeXUBI2JNLT98OqLRC3E5yLl23NB2TYd8="
         }
       ]
     },
