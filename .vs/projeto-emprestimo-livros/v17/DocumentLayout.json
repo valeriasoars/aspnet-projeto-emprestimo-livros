@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "projeto-emprestimo-livros\\Views\\Usuario\\Cadastrar.cshtml",
               "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Views\\Usuario\\Cadastrar.cshtml",
               "RelativeToolTip": "projeto-emprestimo-livros\\Views\\Usuario\\Cadastrar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAI0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-07T21:43:28.978Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "projeto-emprestimo-livros\\Controllers\\UsuarioController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA1wBQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T21:39:39.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T21:39:39.646Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "projeto-emprestimo-livros\\Views\\Cliente\\Index.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-07T21:39:24.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T21:39:24.145Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "projeto-emprestimo-livros\\Dto\\Usuario\\UsuarioEdicaoDto.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwCQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T21:37:22.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T21:37:22.522Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "projeto-emprestimo-livros\\Models\\EnderecoModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T21:35:48.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T21:35:48.251Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "projeto-emprestimo-livros\\Models\\UsuarioModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T21:34:19.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T21:34:19.539Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "projeto-emprestimo-livros\\Dto\\Usuario\\UsuarioCriacaoDto.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAswCQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T21:34:16.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T21:34:16.027Z"
             }
           ]
         }
