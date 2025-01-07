@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "I3YWJAKMvIBHNYLMI0Y0YRem9J26FVaymytZSCAEqjo=",
+  "Hash": "DXZ0ynX+Q+IAWKVVkA+zUHJ2SPg/AL5B22BXdEwhFXQ=",
   "Source": "projeto-emprestimo-livros",
   "BasePath": "_content/projeto-emprestimo-livros",
   "Mode": "Default",
@@ -435,6 +435,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imagem\\mochila-azul.pngff292e1f-f3e2-4697-a02f-a031faf41625.png"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\img\\Ativo.png",
+      "SourceId": "projeto-emprestimo-livros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\",
+      "BasePath": "_content/projeto-emprestimo-livros",
+      "RelativePath": "img/Ativo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "okvtpprmin",
+      "Integrity": "GDLuL8J/d8lx+Qf55Q5ZPZho5J31YNBRTDtLk8vhh00=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Ativo.png"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\img\\Inativo.png",
+      "SourceId": "projeto-emprestimo-livros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\",
+      "BasePath": "_content/projeto-emprestimo-livros",
+      "RelativePath": "img/Inativo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r0hcm4kjyv",
+      "Integrity": "K0cBtdUfd8UazAs1SJNn1SUaXsL/vke+ClM2DmEFcng=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Inativo.png"
     },
     {
       "Identity": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\js\\site.js",
@@ -3129,6 +3171,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-jCRFAyjlU76oe7Btyp7URP8bAsIslVAFQTTQgbaXI8g="
+        }
+      ]
+    },
+    {
+      "Route": "img/Ativo.okvtpprmin.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\img\\Ativo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18588"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GDLuL8J/d8lx+Qf55Q5ZPZho5J31YNBRTDtLk8vhh00=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:46:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "okvtpprmin"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Ativo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GDLuL8J/d8lx+Qf55Q5ZPZho5J31YNBRTDtLk8vhh00="
+        }
+      ]
+    },
+    {
+      "Route": "img/Ativo.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\img\\Ativo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18588"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GDLuL8J/d8lx+Qf55Q5ZPZho5J31YNBRTDtLk8vhh00=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:46:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GDLuL8J/d8lx+Qf55Q5ZPZho5J31YNBRTDtLk8vhh00="
+        }
+      ]
+    },
+    {
+      "Route": "img/Inativo.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\img\\Inativo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K0cBtdUfd8UazAs1SJNn1SUaXsL/vke+ClM2DmEFcng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K0cBtdUfd8UazAs1SJNn1SUaXsL/vke+ClM2DmEFcng="
+        }
+      ]
+    },
+    {
+      "Route": "img/Inativo.r0hcm4kjyv.png",
+      "AssetFile": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\img\\Inativo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K0cBtdUfd8UazAs1SJNn1SUaXsL/vke+ClM2DmEFcng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 20:46:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r0hcm4kjyv"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Inativo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K0cBtdUfd8UazAs1SJNn1SUaXsL/vke+ClM2DmEFcng="
         }
       ]
     },

@@ -1,0 +1,18 @@
+﻿@using projeto_emprestimo_livros.Dto.Usuario
+@using projeto_emprestimo_livros.Enums
+@model UsuarioCriacaoDto
+
+
+@if (TempData["MensagemSucesso"] != null)
+{
+    <div class="alert alert-success text-dark" role="alert">
+        @TempData["MensagemSucesso"]
+    </div>
+}
+
+@if (TempData["MensagemErro"] != null)
+{
+    <div class="alert alert-danger text-dark" role="alert">
+        @TempData["MensagemErro"]
+    </div>
+}

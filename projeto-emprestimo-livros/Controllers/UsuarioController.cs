@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using projeto_emprestimo_livros.Enums;
 using projeto_emprestimo_livros.Services.UsuarioService;
 
 namespace projeto_emprestimo_livros.Controllers
@@ -13,6 +14,19 @@ namespace projeto_emprestimo_livros.Controllers
         public async Task<IActionResult> Index(int? id)
         {
             var usuarios = await _usuarioInterface.BuscarUsuarios(id);
+            return View();
+        }
+
+        [HttpGet]
+        public ActionResult Cadastrar(int? id)
+        {
+            ViewBag.Perfil = PerfilEnum.Administrador;
+
+            if(id != null)
+            {
+                ViewBag.Perfil = PerfilEnum.Cliente;
+            }
+
             return View();
         }
     }

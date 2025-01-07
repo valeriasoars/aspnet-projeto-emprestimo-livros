@@ -77,6 +77,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\img\\Ativo.png",
+      "PackagePath": "staticwebassets\\img\\Ativo.png"
+    },
+    {
+      "Id": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\img\\Inativo.png",
+      "PackagePath": "staticwebassets\\img\\Inativo.png"
+    },
+    {
       "Id": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

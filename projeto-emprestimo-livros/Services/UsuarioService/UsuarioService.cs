@@ -27,6 +27,8 @@ namespace projeto_emprestimo_livros.Services.UsuarioService
                     registros = await _context.Usuarios.Where(funcionario => funcionario.Perfil != 0).Include(e => e.Endereco).ToListAsync();
                 }
 
+
+
                 return registros;
 
             }

@@ -16,6 +16,8 @@ wwwroot\Imagem\mochila-azul.png1ceee2d3-d2a9-410f-bbf8-7814244f6eee.png
 wwwroot\Imagem\mochila-azul.png866c836e-98ac-49a6-a2c4-327779ba1aa3.png
 wwwroot\Imagem\mochila-azul.png9f3c5c2f-ca4b-4538-b794-228f0b6ecc80.png
 wwwroot\Imagem\mochila-azul.pngff292e1f-f3e2-4697-a02f-a031faf41625.png
+wwwroot\img\Ativo.png
+wwwroot\img\Inativo.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
