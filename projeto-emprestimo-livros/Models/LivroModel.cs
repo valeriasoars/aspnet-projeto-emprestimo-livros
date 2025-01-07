@@ -2,7 +2,7 @@
 
 namespace projeto_emprestimo_livros.Models
 {
-    public class LivrosModel
+    public class LivroModel
     {
 
         [Key]

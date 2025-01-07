@@ -16,7 +16,7 @@ namespace projeto_emprestimo_livros.Controllers
             _livroInterface = livroInterface;
             _mapper = mapper;
         }
-        public async  Task<ActionResult<List<LivrosModel>>> Index()
+        public async  Task<ActionResult<List<LivroModel>>> Index()
         {
             var livros = await _livroInterface.BuscarLivros();
             return View(livros);

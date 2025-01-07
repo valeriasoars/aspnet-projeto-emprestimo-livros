@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using projeto_emprestimo_livros.Data;
 using projeto_emprestimo_livros.Services.LivroService;
+using projeto_emprestimo_livros.Services.UsuarioService;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +15,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 
 builder.Services.AddScoped<ILivro, LivroService>();
+builder.Services.AddScoped<IUsuario, UsuarioService>();
 
 builder.Services.AddAutoMapper(typeof(Program));
 

@@ -20,7 +20,7 @@ namespace projeto_emprestimo_livros.Services.LivroService
 
             _mapper = mapper;
         }
-        public async Task<List<LivrosModel>> BuscarLivros()
+        public async Task<List<LivroModel>> BuscarLivros()
         {
 
             try
@@ -35,7 +35,7 @@ namespace projeto_emprestimo_livros.Services.LivroService
            
         }
 
-        public async Task<LivrosModel> Cadastrar(LivroCriacaoDto livroCriacaoDto, IFormFile foto)
+        public async Task<LivroModel> Cadastrar(LivroCriacaoDto livroCriacaoDto, IFormFile foto)
         {
             try
             {
@@ -53,7 +53,7 @@ namespace projeto_emprestimo_livros.Services.LivroService
                       Genero = livroCriacaoDto.Genero
                   };*/
 
-                var livro = _mapper.Map<LivrosModel>(livroCriacaoDto);
+                var livro = _mapper.Map<LivroModel>(livroCriacaoDto);
                 livro.Capa = nomeCaminhoDaImagem;
 
                 _context.Add(livro);
@@ -88,7 +88,7 @@ namespace projeto_emprestimo_livros.Services.LivroService
             }
         }
 
-        public async Task<LivrosModel> BuscarLivroPorId(int? id)
+        public async Task<LivroModel> BuscarLivroPorId(int? id)
         {
             try
             {
@@ -101,7 +101,7 @@ namespace projeto_emprestimo_livros.Services.LivroService
             }
         }
 
-        public async Task<LivrosModel> Editar(LivroEdicaoDto livroEdicaoDto, IFormFile foto)
+        public async Task<LivroModel> Editar(LivroEdicaoDto livroEdicaoDto, IFormFile foto)
         {
             try
             {
@@ -119,7 +119,7 @@ namespace projeto_emprestimo_livros.Services.LivroService
                     nomeCaminhoDaImagem = GeraCaminhoArquivo(foto);
                 }
 
-               var livrosModel = _mapper.Map<LivrosModel>(livroEdicaoDto);
+               var livrosModel = _mapper.Map<LivroModel>(livroEdicaoDto);
 
                 if(nomeCaminhoDaImagem != "")
                 {
