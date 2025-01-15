@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Mvc;
+using projeto_emprestimo_livros.Dto.Endereco;
 using projeto_emprestimo_livros.Dto.Usuario;
 using projeto_emprestimo_livros.Enums;
 using projeto_emprestimo_livros.Models;
@@ -9,9 +11,11 @@ namespace projeto_emprestimo_livros.Controllers
     public class UsuarioController : Controller
     {
         public readonly IUsuario _usuarioInterface;
-        public UsuarioController(IUsuario usuario_interface)
+        public readonly IMapper _mapper;
+        public UsuarioController(IUsuario usuario_interface, IMapper mapper)
         {
             _usuarioInterface = usuario_interface;
+            _mapper = mapper;
         }
         public async Task<IActionResult> Index(int? id)
         {
@@ -43,6 +47,42 @@ namespace projeto_emprestimo_livros.Controllers
 
             return RedirectToAction("Index");
         }
+
+        [HttpGet]
+        public async Task<ActionResult> Editar(int? id)
+        {
+            if(id != null)
+            {
+                var usuario = await _usuarioInterface.BuscarUsuarioPorId(id);
+
+                var usuarioEditado = new UsuarioEdicaoDto
+                {
+                    NomeCompleto = usuario.NomeCompleto,
+                    Email = usuario.Email,
+                    Perfil = usuario.Perfil,
+                    Turno = usuario.Turno,
+                    Id = usuario.Id,
+                    Usuario = usuario.Usuario,
+                    Endereco = _mapper.Map<EnderecoEdicaoDto>(usuario.Endereco)
+
+                };
+
+                if(usuarioEditado.Perfil == PerfilEnum.Cliente)
+                {
+                    ViewBag.Perfil = PerfilEnum.Cliente;
+                }
+                else
+                {
+                    ViewBag.Perfil = PerfilEnum.Administrador;
+                }
+
+                return View(usuarioEditado);
+            }
+
+
+            return RedirectToAction("Index");   
+        }
+
 
         [HttpPost]
         public async Task<ActionResult> Cadastrar(UsuarioCriacaoDto usuarioCriacaoDto)
@@ -80,7 +120,6 @@ namespace projeto_emprestimo_livros.Controllers
         }
 
 
-
         [HttpPost]
         public async Task<ActionResult> MudarSituacaoUsuario(UsuarioModel usuario)
         {
@@ -109,6 +148,29 @@ namespace projeto_emprestimo_livros.Controllers
             else
             {
                 return RedirectToAction("Index");
+            }
+        }
+
+        [HttpPost]
+        public async Task<ActionResult> Editar(UsuarioEdicaoDto usuarioEdicaoDto)
+        {
+            if (ModelState.IsValid)
+            {
+                var usuario = await _usuarioInterface.Editar(usuarioEdicaoDto);
+                TempData["MensagemSucesso"] = "Edição realizada com sucesso!";
+                if (usuario.Perfil != PerfilEnum.Cliente)
+                {
+                    return RedirectToAction("Index", "Funcionario");
+                }
+                else
+                {
+                    return RedirectToAction("Index", "Cliente", new { Id = "0" });
+                }
+            }
+            else
+            {
+                TempData["MensagemErro"] = "Verifique os dados informados!";
+                return View(usuarioEdicaoDto);
             }
         }
     }
