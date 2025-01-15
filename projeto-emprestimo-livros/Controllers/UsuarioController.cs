@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using projeto_emprestimo_livros.Dto.Usuario;
 using projeto_emprestimo_livros.Enums;
+using projeto_emprestimo_livros.Models;
 using projeto_emprestimo_livros.Services.UsuarioService;
 
 namespace projeto_emprestimo_livros.Controllers
@@ -31,6 +32,17 @@ namespace projeto_emprestimo_livros.Controllers
             return View();
         }
 
+        [HttpGet]
+        public async Task<ActionResult> Detalhes(int? id)
+        {
+            if(id != null)
+            {
+                var usuario = await _usuarioInterface.BuscarUsuarioPorId(id);
+                return View(usuario);
+            }
+
+            return RedirectToAction("Index");
+        }
 
         [HttpPost]
         public async Task<ActionResult> Cadastrar(UsuarioCriacaoDto usuarioCriacaoDto)
@@ -64,6 +76,39 @@ namespace projeto_emprestimo_livros.Controllers
             {
                 TempData["MensagemErro"] = "Verifique os dados informados!";
                 return View(usuarioCriacaoDto);
+            }
+        }
+
+
+
+        [HttpPost]
+        public async Task<ActionResult> MudarSituacaoUsuario(UsuarioModel usuario)
+        {
+            if (usuario.Id != 0 && usuario.Id != null)
+            {
+                var usuarioBanco = await _usuarioInterface.MudarSituacaoUsuario(usuario.Id);
+
+                if (usuarioBanco.Situacao == true)
+                {
+                    TempData["MensagemSucesso"] = "Usuario ativado com sucesso";
+                }
+                else
+                {
+                    TempData["MensagemSucesso"] = "Inativação realizada com sucesso";
+                }
+
+                if (usuarioBanco.Perfil != PerfilEnum.Cliente)
+                {
+                    return RedirectToAction("Index", "Funcionario");
+                }
+                else
+                {
+                    return RedirectToAction("Index", "Cliente", new { Id = "0" });
+                }
+            }
+            else
+            {
+                return RedirectToAction("Index");
             }
         }
     }

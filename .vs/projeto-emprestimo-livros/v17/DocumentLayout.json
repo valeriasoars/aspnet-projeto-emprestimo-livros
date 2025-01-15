@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\views\\usuario\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|solutionrelative:projeto-emprestimo-livros\\views\\usuario\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|solutionrelative:projeto-emprestimo-livros\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\services\\usuarioservice\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|solutionrelative:projeto-emprestimo-livros\\services\\usuarioservice\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\services\\usuarioservice\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|solutionrelative:projeto-emprestimo-livros\\services\\usuarioservice\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\services\\autenticacao\\autenticacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|solutionrelative:projeto-emprestimo-livros\\services\\autenticacao\\autenticacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\services\\usuarioservice\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|solutionrelative:projeto-emprestimo-livros\\services\\usuarioservice\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\services\\autenticacao\\iautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|solutionrelative:projeto-emprestimo-livros\\services\\autenticacao\\iautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|c:\\users\\valer\\onedrive\\documentos\\projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\views\\usuario\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFA56575-3FD9-4009-A15F-E7C98CE9344D}|projeto-emprestimo-livros\\projeto-emprestimo-livros.csproj|solutionrelative:projeto-emprestimo-livros\\views\\usuario\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,43 +26,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AutenticacaoService.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Services\\Autenticacao\\AutenticacaoService.cs",
-              "RelativeDocumentMoniker": "projeto-emprestimo-livros\\Services\\Autenticacao\\AutenticacaoService.cs",
-              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Services\\Autenticacao\\AutenticacaoService.cs",
-              "RelativeToolTip": "projeto-emprestimo-livros\\Services\\Autenticacao\\AutenticacaoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Services\\UsuarioService\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "projeto-emprestimo-livros\\Services\\UsuarioService\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Services\\UsuarioService\\UsuarioService.cs",
+              "RelativeToolTip": "projeto-emprestimo-livros\\Services\\UsuarioService\\UsuarioService.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowH4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T21:46:20.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IAutenticacao.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Services\\Autenticacao\\IAutenticacao.cs",
-              "RelativeDocumentMoniker": "projeto-emprestimo-livros\\Services\\Autenticacao\\IAutenticacao.cs",
-              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Services\\Autenticacao\\IAutenticacao.cs",
-              "RelativeToolTip": "projeto-emprestimo-livros\\Services\\Autenticacao\\IAutenticacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T21:46:10.195Z"
+              "WhenOpened": "2025-01-15T00:01:52.29Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Cadastrar.cshtml",
-              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Views\\Usuario\\Cadastrar.cshtml",
-              "RelativeDocumentMoniker": "projeto-emprestimo-livros\\Views\\Usuario\\Cadastrar.cshtml",
-              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Views\\Usuario\\Cadastrar.cshtml",
-              "RelativeToolTip": "projeto-emprestimo-livros\\Views\\Usuario\\Cadastrar.cshtml",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAswJwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T21:42:12.51Z",
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "projeto-emprestimo-livros\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "projeto-emprestimo-livros\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAswG4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:56:42.489Z",
               "EditorCaption": ""
             },
             {
@@ -81,33 +62,22 @@
               "RelativeDocumentMoniker": "projeto-emprestimo-livros\\Services\\UsuarioService\\IUsuario.cs",
               "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Services\\UsuarioService\\IUsuario.cs",
               "RelativeToolTip": "projeto-emprestimo-livros\\Services\\UsuarioService\\IUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T21:38:16.866Z"
+              "WhenOpened": "2025-01-14T23:56:24.084Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Services\\UsuarioService\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "projeto-emprestimo-livros\\Services\\UsuarioService\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Services\\UsuarioService\\UsuarioService.cs",
-              "RelativeToolTip": "projeto-emprestimo-livros\\Services\\UsuarioService\\UsuarioService.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAgwE0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T21:22:36.434Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "projeto-emprestimo-livros\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "projeto-emprestimo-livros\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T21:17:52.375Z",
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Views\\Usuario\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "projeto-emprestimo-livros\\Views\\Usuario\\Detalhes.cshtml",
+              "ToolTip": "C:\\Users\\valer\\OneDrive\\Documentos\\Projetos\\projeto-emprestimo-livros\\projeto-emprestimo-livros\\Views\\Usuario\\Detalhes.cshtml",
+              "RelativeToolTip": "projeto-emprestimo-livros\\Views\\Usuario\\Detalhes.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T23:55:31.387Z",
               "EditorCaption": ""
             }
           ]

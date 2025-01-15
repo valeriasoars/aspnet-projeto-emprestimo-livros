@@ -16,6 +16,20 @@ namespace projeto_emprestimo_livros.Services.UsuarioService
             _context = context;
             _autenticacaoService = autenticacaoInterface;
         }
+
+        public async Task<UsuarioModel> BuscarUsuarioPorId(int? id)
+        {
+            try
+            {
+                var usuario = await _context.Usuarios.Include(endereco => endereco.Endereco).FirstOrDefaultAsync(u => u.Id == id);
+                return usuario;
+            }
+            catch (Exception ex) 
+            {
+                throw new Exception(ex.Message);
+            }
+        }
+
         public async Task<List<UsuarioModel>> BuscarUsuarios(int? id)
         {
             try
@@ -78,6 +92,39 @@ namespace projeto_emprestimo_livros.Services.UsuarioService
                 return usuarioCriacaoDto;
 
 
+
+            }
+            catch(Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
+
+        public async Task<UsuarioModel> MudarSituacaoUsuario(int id)
+        {
+            try
+            {
+                var usuarioMudarSituacao = await _context.Usuarios.FirstOrDefaultAsync(u => u.Id == id);
+
+                if(usuarioMudarSituacao != null)
+                {
+                    if(usuarioMudarSituacao.Situacao == true)
+                    {
+                        usuarioMudarSituacao.Situacao = false;
+                        usuarioMudarSituacao.DataAlteracao = DateTime.Now;
+                    }
+                    else
+                    {
+                        usuarioMudarSituacao.Situacao = true;
+                        usuarioMudarSituacao.DataAlteracao = DateTime.Now;
+                    }
+
+                    _context.Update(usuarioMudarSituacao);
+                    await _context.SaveChangesAsync();
+                    return usuarioMudarSituacao;
+                }
+
+                return usuarioMudarSituacao;
 
             }
             catch(Exception ex)
